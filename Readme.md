@@ -80,6 +80,9 @@ ds_Sahana_Mathad/
 - Visual outputs inside `/outputs/`.
 - `ds_report.pdf` — polished written report summarizing methodology, results, and recommendations.
 - Link to the Colab notebook with runnable code.
+**- You can access the analysis notebooks through the following links:**
+1. https://colab.research.google.com/drive/1ihYgO8Qv-IhIBv0m-0WoAmy7W1rlHVnF
+2. https://colab.research.google.com/drive/1W8_kRfoPIewzyuk4vIUuwc1YJwY0N1Iy#scrollTo=8ndW0ZYkVUdl
 
 ---
 
