@@ -13,14 +13,20 @@
 
 ---
 
+**This repository contains two versions of the analysis notebook: one developed using Jupyter Notebook and another adapted specifically for execution in Google Colab.**
+
 **📁 Repository structure**
+
 ds_Sahana_Mathad/
 
-├── notebook_1.ipynb 
+├── notebook1_JupyterNotebook.ipynb 
+
+├── notebook2_GoogleCollab.ipynb 
 
 ├── csv_files/
 
 │ └── fear_greed_index.csv
+
   └── historical_data.csv
 
 ├── outputs/
